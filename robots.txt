@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://sadaqa-mayson-iraqi.com/sitemap.xml
+
+# صدقة على روح ميسون عراقي
+# تطبيق إسلامي شامل - صدقة جارية
